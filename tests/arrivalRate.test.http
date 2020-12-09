@@ -1,0 +1,7 @@
+GET http://localhost:3000/company/arrival_rate
+        ?queue_id=QUEUE12345
+        &from= 2020-11-30T17%3A03%3A32%2B08%3A00
+        &duration=1 HTTP/1.1
+       
+# %30 - :
+# %2B - +
