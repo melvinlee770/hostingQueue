@@ -6,7 +6,7 @@ Content-Type: application/json
 
 {
     "company_id": 1234567890,
-    "queue_id": "ZUNLE12345"
+    "queue_id": "ABCDE12345"
 }
 
 # {
